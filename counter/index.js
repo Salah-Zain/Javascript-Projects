@@ -34,9 +34,9 @@ function decrement(){
     // console.log(count);
     head.innerHTML = count;
     
-    if(count % 10 === 0){
-        alert(`count is now mod of ${count}`);
-    }
+    // if(count % 10 === 0){
+    //     alert(`count is now mod of ${count}`);
+    // }
 }
 
 document.addEventListener('DOMContentLoaded', function(){
