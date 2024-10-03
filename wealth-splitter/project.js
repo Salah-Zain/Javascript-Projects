@@ -11,7 +11,7 @@ function necessities(salary) {
 }
 
 let manSalary = necessities(salary1);
-// console.log("necessities " + manSalary);
+// console.log("necessities " + manSalary); 
 
 
 
